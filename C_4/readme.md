@@ -23,3 +23,6 @@ return 0;
 }
  ```
 acmicpc.net/problem/2588
+
+2< x <5
+(2<x) && (x<5)
