@@ -22,3 +22,4 @@ printf("%d %% %d = %d", x, y, result);
 return 0;
 }
  ```
+acmicpc.net/problem/2588
